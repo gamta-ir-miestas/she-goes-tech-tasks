@@ -1,0 +1,29 @@
+1. Create a program that asks the user to enter their age and whether or not they have a driver's license. 
+If the user is at least 18 years old and has a driver's license, the output should be as follows
+
+"You are able to drive : True
+
+If not, then
+
+"You are able to drive : False
+
+2. (Explore some String functions).Create a program that asks the user for a password, and checks if it meets the following criteria: at least 8 characters long,
+ contains at least one uppercase letter, one lowercase letter, and one number. 
+
+If the password meets all of these criteria, print "Password accepted : True", otherwise print "Password accepted : False".
+
+3. Write a program that asks the user to enter two integers and checks if they are both even. 
+
+If they are, print "Both numbers are even : True", otherwise print "Both numbers are even : False".
+If at least one is even print "At least one number is even : True", else "At least one number is even : False".
+
+Hint : use modulo operator % here
+
+4. Write a program that asks the user to enter a year and checks if it is a leap year. 
+A leap year is defined as a year that is divisible by 4 but not by 100, or a year that is divisible by 400. 
+If the year is a leap year, print "Leap year : True", otherwise print "Leap year : True".
+
+(task with a star, optional) 
+5.Create the program which asks to enter the date (day, month, year). 
+
+If the date is valid print : "Date valid : True" else "Date valid : False"
