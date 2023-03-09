@@ -27,8 +27,7 @@ for char in password2:
     else:
         specialchar = True
 
+end_result = result1 and digit and uppercase and lowercase and specialchar
 
-if result1 and digit and uppercase and lowercase and specialchar == True:
-    print("Password accepted: " + str(True))
-else:
-    print("Password accepted: " + str(False))
+print("Password accepted: " + str(end_result))
+
