@@ -1,0 +1,10 @@
+Task 1: Write a function that takes two parameters (a and b) and returns their sum.
+Task 2:Write a function that takes a string as a parameter and returns the number of vowels (aeiou) in the string. Hint: you can use given_character in "aeiou"
+Task 3:Write a function that takes a string as a parameter and returns True if the string is a palindrome and False otherwise
+Task 4:Write a function that takes a list of integers as a parameter and returns a list of only the even integers in the original list
+Task 5:Write a function that takes a list of integers and a target sum as parameters and returns a list of two integers from the original list that add up to the target sum.
+Task 6: Write a function that takes a list of integers as a parameter and returns the product of all the integers in the list.
+Task 8:Write a function that takes a dictionary as a parameter and returns a list of all the keys in the dictionary that have an even value.
+Task 9:Write a function that takes a list of dictionaries as a parameter and returns a new dictionary that contains the sum of the values for each key in the original dictionaries.
+Task 10:Write a function that takes a tuple as a parameter and returns a new tuple that has the first and last elements swapped.
+Task 11:Write a function that takes a set as a parameter and returns a new set that contains only the elements that are not divisible by 3.
